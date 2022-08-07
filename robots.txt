@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gtko.github.io/actuClaque/sitemap.xml

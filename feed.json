@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ActuClaque",
+    "description": "",
+    "home_page_url": "https://gtko.github.io/actuClaque",
+    "feed_url": "https://gtko.github.io/actuClaque/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Eric sian"
+    },
+    "items": [
+    ]
+}
